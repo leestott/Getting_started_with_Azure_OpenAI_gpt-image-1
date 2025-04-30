@@ -1,7 +1,7 @@
 # Getting started with OpenAI gpt-image-1 on Azure AI Foundry
 
 ## Overview
-This project demonstrates how to use Azure OpenAI's `gpt-image-1` model to generate images from text prompts. The `gpt-image-1` model, also known as DALL-E 3, allows users to create high-quality, ultra-realistic images by providing descriptive prompts. This repository includes a Jupyter Notebook that guides you through the process of setting up and using the model.
+This project demonstrates how to use Azure OpenAI's `gpt-image-1` model to generate images from text prompts. The `gpt-image-1` model, allows users to create high-quality, ultra-realistic images by providing descriptive prompts. This repository includes a Jupyter Notebook that guides you through the process of setting up and using the model.
 
 ## Prerequisites
 Before you begin, ensure you have the following:
